@@ -1,2 +1,2 @@
 # PreWork-Study-Guide
-A study guide for course pre-ork.
+A study guide for course pre-work.
