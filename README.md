@@ -1,13 +1,8 @@
 # Prework Study Guide Webpage
 
-## In the prework for a full stack bootcamp, we followed along a training tether that introduces the simplest meechanics of Git, HTML, CSS, and JavaScript.
+## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+In the prework for a full stack bootcamp, we followed along a training tether that introduces the simplest meechanics of Git, HTML, CSS, and JavaScript.
 
 
 
